@@ -1,27 +1,35 @@
 ---
 layout: page
-title: About
+title: 关于
 comments: yes
 permalink: /about/
 ---
 
 
-### Freshman21 is a Jekyll theme.
+### 工作
+2006-2009，主要从事电信运营商业务支撑系统的开发、设计，参与过广东电信、浙江电信等多个业务子系统。
 
-A tribute to Twenty Twelve and Twenty eleven.
+2010-2014，专注在高校网络教育、在线测评系统、K12智能授课系统等多个产品的设计、研发，曾成功上线广东多个高校网络教育平台、考试测评系统，曾在广州某显示触控企业带领团队负责K12智能授课平台产品设计、研发等工作。
 
-I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
-So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
+2014下半年至今，任职于广州某互联网公司，带领团队负责公司汽车后市场的移动互联网产品，目前已上线微信、App等产品。
 
-Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
+未来，持续关注汽车后市场O2O产品、车载智能硬件、车联网产品、大数据技术等。
 
-<cite>Proudly enjoy using Freshman21 theme.</cite> <code>;)</code>
+### 我
 
-<img title="麋鹿" src="https://i.imgur.com/Mdc4szJl.jpg" alt="麋鹿" width="580" height="668" />
+爱户外，徒步、骑行
 
-#### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
+码农，产品狗，团队打杂，跳跃性思维
 
-Milu(麋鹿) is the chinese name of Père David's deer.
+Kindle,Mac pro,Nikon D90
+
+
+
+### 三观
+
+唯有爱和梦想不可辜负，且行且珍重。
+
+
 
 
 

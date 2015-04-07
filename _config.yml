@@ -1,27 +1,27 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
-baseurl: "/freshman21" # the subpath of your site, e.g. /blog
-url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
-locale: en_US
+title: 可里胡的九里巷
+tagline: 不念过去, 不惧将来
+author: Marco Hu
+email: hzg139@163.com
+description: "关注汽车后市场、O2O、移动互联网技术与产品、户外、文艺." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "可里胡, Jekyll"
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+#url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
+locale: zh_CN
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
+#twitter_username: yulijia
+github_username:  hzg139
+#disqus_shortname: hzg139
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
+aboutme: Hi, 我是可里胡，供职于某互联网公司，汽车后市场电商产品与技术研发负责人。双城记：工作@广州，生活@东莞。 # these are shown on aboutme-sidebar.
+aboutme_photo: http://pic.yupoo.com/hzg139/EyLlhXgI/small.jpg # your photo.
 
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+default_locale: "cn" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
 locales:
     en:
@@ -40,7 +40,7 @@ locales:
     cn:
       Aboutme: "关于我"
       Archives: "存档"
-      Blogroll: "良师益友"        
+      Blogroll: "关注"        
       Categories: "分类目录"    
       Copyright_Notice: "版权声明"
       Recent_Posts: "近期文章"
