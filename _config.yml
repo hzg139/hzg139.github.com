@@ -5,7 +5,7 @@ author: Marco Hu
 email: hzg139@163.com
 description: "关注汽车后市场、O2O、移动互联网技术与产品、户外、文艺." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "可里胡, Jekyll"
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
 #url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
 locale: zh_CN
 
