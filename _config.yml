@@ -12,7 +12,7 @@ locale: zh_CN
 ### Personal info and site tools info:
 #twitter_username: yulijia
 github_username:  hzg139
-#disqus_shortname: hzg139
+disqus_shortname: hzg139
 favicon:     "/images/favicon.ico"
 aboutme: Hi, 我是可里胡，供职于某互联网公司，汽车后市场电商产品与技术研发负责人。双城记：工作@广州，生活@东莞。 # these are shown on aboutme-sidebar.
 aboutme_photo: http://pic.yupoo.com/hzg139/EyLlhXgI/small.jpg # your photo.

@@ -4,7 +4,9 @@ title: 留言
 comments: yes
 permalink: /guestbook/
 ---
-## Hi, welcome to leave a message here.:)
+## Hi,欢迎给我留言 :)
 
-> To follow the path, look to the master, follow the master, walk with the master, see through the master, become the master.
+> If today were the last day of my life, would I want to do what I am about to do today?
+> 
+> Steve Jobs
 
